@@ -9,8 +9,8 @@ akdiegorsantos:
 
   desktop: GNOME
   editor: Visual Studio Code
-  terminal: Tilix
-  shell: fish
-  font: IBM Plex Mono
-  colors: Nord
+  terminal: Alacritty
+  shell: Zsh
+  font: JetBrains Mono
+  colors: hihihi for VSCode
 ```
