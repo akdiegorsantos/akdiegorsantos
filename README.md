@@ -4,12 +4,12 @@ akdiegorsantos:
 
   languages:
     - Python
-    - Bash / POSIX Shell
     - JavaScript
+    - Bash / POSIX Shell
 
   desktop: GNOME
   editor: Visual Studio Code
-  terminal: Alacritty
+  terminal: kitty
   shell: Zsh
   font: JetBrains Mono
   colors: hihihi for VSCode
